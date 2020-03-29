@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For TestMenuRVBuz
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+TestMenuRVBuz	KEYWORD1	TestMenuRVBuz
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+monMenuTest	KEYWORD2
+monSetup	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
